@@ -1,4 +1,4 @@
 # hotel-project
 
 ## SITE LINK 
-https://moises-knows.github.io/hotel-project/
+https://moises-devs.github.io/hotel-project/
